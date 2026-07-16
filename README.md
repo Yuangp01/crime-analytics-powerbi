@@ -1,4 +1,21 @@
 #  Los Angeles Crime Analytics Dashboard
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge&logo=files&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Gamma%20AI-7C3AED?style=for-the-badge&logo=gamma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+</p>
 
 ## Overview
 This project showcases a complete, industry-standard end-to-end data analytics workflow using real-world crime data from the Los Angeles Open Data Portal. It demonstrates the full lifecycle of a professional data analytics project, from defining the business problem and preparing the data to building an interactive Power BI dashboard and presenting actionable insights.The project includes data extraction, transformation with Power Query, data modeling, DAX measures, interactive dashboard development, and business reporting to support data-driven decision-making.
