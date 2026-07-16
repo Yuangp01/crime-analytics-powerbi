@@ -30,23 +30,27 @@ The project includes data extraction, transformation with Power Query, data mode
 
 -  Business-Oriented Insights: Transform raw crime data into actionable insights that support public safety analysis and data-driven decision making.
 
-## Project Structure
+## 📁 Project Structure
+
 The project repository is organized as follows:
 
-├── LICENSE
-├── README.md                               <- Project documentation and overview.
+```text
+crime-analytics-powerbi
 │
-├── dashboard                               <- Power BI dashboard files.
+├── LICENSE
+├── README.md
+│
+├── dashboard
 │   └── LA_Crime_Analytics_Dashboard.pbix
 │
-├── data                                    <- Dataset used in the project.
+├── data
 │   ├── raw
 │   │   └── Crime_Data_from_2020_to_Present.csv
 │   │
 │   └── processed
 │       └── Cleaned_Crime_Data.csv
 │
-├── images                                  <- Images used in the README.
+├── images
 │   ├── cover.png
 │   ├── dashboard.png
 │   ├── incidents.png
@@ -54,16 +58,17 @@ The project repository is organized as follows:
 │   ├── explanation.png
 │   └── workflow.png
 │
-├── report                                  <- Project documentation.
+├── report
 │   └── LA_Crime_Analytics_Report.pdf
 │
-├── presentation                            <- Presentation slides.
+├── presentation
 │   └── LA_Crime_Analytics_Presentation.pdf
 │
-└── assets                                  <- Logos, icons, and other project resources.
+└── assets
     ├── lapd_logo.png
     ├── icons
     └── backgrounds
+```
 
 
 
