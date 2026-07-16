@@ -12,23 +12,19 @@ The project includes data extraction, transformation with Power Query, data mode
 
 
 ## Features
-- Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
+## ✨ Features
 
-- Crime Trend Analysis: Analyze yearly crime trends (2020–2025) to identify long-term patterns and changes over time.
+- **🗺️ Interactive Geographic Analysis:** Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
 
--  Interactive Dashboard Navigation: Navigate seamlessly between **Incident** and **Crimes** analysis pages using custom Power BI bookmarks and buttons.
+- **📊 Crime Trend Analysis:** Analyze crime trends from **2020–2025** to identify long-term patterns and emerging hotspots.
 
--  KPI Monitoring: Track key crime metrics, including total reported crimes, crime categories, cleared arrests, open investigations, and pending cases.
+- **📈 KPI Dashboard:** Monitor key metrics including total crimes, crime categories, cleared arrests, open investigations, and pending cases.
 
--  Temporal Analysis: Discover crime patterns by **year, month, and day of the week** to identify seasonal and weekly trends.
+- **📅 Temporal Analysis:** Identify seasonal and weekly crime patterns by year, month, and day of the week.
 
--  Area Ranking: Compare LAPD divisions using dynamic rankings to identify high-crime hotspots across Los Angeles.
+- **🎯 Advanced Filtering:** Interactively filter data by reporting area, crime category, offense type, and year.
 
--  Advanced Filtering: Filter the dashboard by reporting area, crime category, offense type, and year for deeper analysis.
-
--  Professional Dashboard Design: Designed with a clean, executive-style interface focused on usability, storytelling, and business intelligence best practices.
-
--  Business-Oriented Insights: Transform raw crime data into actionable insights that support public safety analysis and data-driven decision making.
+- **💡 Business Intelligence:** Transform raw crime data into actionable insights that support data-driven decision-making.
 
 ## 📁 Project Structure
 
