@@ -37,7 +37,6 @@ The project repository is organized as follows:
 ```text
 crime-analytics-powerbi
 │
-├── LICENSE
 ├── README.md
 │
 ├── dashboard
