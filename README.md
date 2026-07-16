@@ -12,19 +12,18 @@ The project includes data extraction, transformation with Power Query, data mode
 
 
 ## Features
-## ✨ Features
 
-- **🗺️ Interactive Geographic Analysis:** Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
+- Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
 
-- **📊 Crime Trend Analysis:** Analyze crime trends from **2020–2025** to identify long-term patterns and emerging hotspots.
+- Crime Trend Analysis: Analyze crime trends from **2020–2025** to identify long-term patterns and emerging hotspots.
 
-- **📈 KPI Dashboard:** Monitor key metrics including total crimes, crime categories, cleared arrests, open investigations, and pending cases.
+- KPI Dashboard: Monitor key metrics including total crimes, crime categories, cleared arrests, open investigations, and pending cases.
 
-- **📅 Temporal Analysis:** Identify seasonal and weekly crime patterns by year, month, and day of the week.
+- Temporal Analysis: Identify seasonal and weekly crime patterns by year, month, and day of the week.
 
-- **🎯 Advanced Filtering:** Interactively filter data by reporting area, crime category, offense type, and year.
+- Advanced Filtering: Interactively filter data by reporting area, crime category, offense type, and year.
 
-- **💡 Business Intelligence:** Transform raw crime data into actionable insights that support data-driven decision-making.
+- Business Intelligence: Transform raw crime data into actionable insights that support data-driven decision-making.
 
 ## 📁 Project Structure
 
