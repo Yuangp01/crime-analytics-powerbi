@@ -8,6 +8,9 @@ The project includes data extraction, transformation with Power Query, data mode
 ## Preview
 
 
+
+
+
 ## Features
 - Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
 
@@ -26,6 +29,8 @@ The project includes data extraction, transformation with Power Query, data mode
 -  Professional Dashboard Design: Designed with a clean, executive-style interface focused on usability, storytelling, and business intelligence best practices.
 
 -  Business-Oriented Insights: Transform raw crime data into actionable insights that support public safety analysis and data-driven decision making.
+
+
 
 
 This project is ideal for:
