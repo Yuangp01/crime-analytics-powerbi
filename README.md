@@ -12,7 +12,7 @@ This project showcases a complete, industry-standard end-to-end data analytics w
 
 ## Features
 
-- Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
+- Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with cross-filtering.
 
 - Crime Trend Analysis: Analyze crime trends from **2020–2024** to identify long-term patterns and emerging hotspots.
 
