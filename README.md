@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cover.png" alt="Los Angeles Crime Analytics Dashboard Banner" width="100%">
+</p>
+
 #  Los Angeles Crime Analytics Dashboard
 
 <p align="left">
