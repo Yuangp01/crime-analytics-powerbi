@@ -5,6 +5,7 @@ This project showcases a complete, industry-standard end-to-end data analytics w
 
 ## Preview
 
+<img width="1172" height="671" alt="image" src="https://github.com/user-attachments/assets/a4504a0a-234c-46a9-a720-5602b623eb33" />
 
 
 
