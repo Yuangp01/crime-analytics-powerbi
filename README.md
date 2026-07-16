@@ -9,23 +9,23 @@ The project includes data extraction, transformation with Power Query, data mode
 
 
 ## Features
-- ** Interactive Geographic Analysis:** Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
+- Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
 
-- ** Crime Trend Analysis:** Analyze yearly crime trends (2020–2025) to identify long-term patterns and changes over time.
+- Crime Trend Analysis: Analyze yearly crime trends (2020–2025) to identify long-term patterns and changes over time.
 
-- ** Interactive Dashboard Navigation:** Navigate seamlessly between **Incident** and **Crimes** analysis pages using custom Power BI bookmarks and buttons.
+-  Interactive Dashboard Navigation: Navigate seamlessly between **Incident** and **Crimes** analysis pages using custom Power BI bookmarks and buttons.
 
-- ** KPI Monitoring:** Track key crime metrics, including total reported crimes, crime categories, cleared arrests, open investigations, and pending cases.
+-  KPI Monitoring: Track key crime metrics, including total reported crimes, crime categories, cleared arrests, open investigations, and pending cases.
 
-- ** Temporal Analysis:** Discover crime patterns by **year, month, and day of the week** to identify seasonal and weekly trends.
+-  Temporal Analysis: Discover crime patterns by **year, month, and day of the week** to identify seasonal and weekly trends.
 
-- ** Area Ranking:** Compare LAPD divisions using dynamic rankings to identify high-crime hotspots across Los Angeles.
+-  Area Ranking: Compare LAPD divisions using dynamic rankings to identify high-crime hotspots across Los Angeles.
 
-- ** Advanced Filtering:** Filter the dashboard by reporting area, crime category, offense type, and year for deeper analysis.
+-  Advanced Filtering: Filter the dashboard by reporting area, crime category, offense type, and year for deeper analysis.
 
-- ** Professional Dashboard Design:** Designed with a clean, executive-style interface focused on usability, storytelling, and business intelligence best practices.
+-  Professional Dashboard Design: Designed with a clean, executive-style interface focused on usability, storytelling, and business intelligence best practices.
 
-- ** Business-Oriented Insights:** Transform raw crime data into actionable insights that support public safety analysis and data-driven decision making.
+-  Business-Oriented Insights: Transform raw crime data into actionable insights that support public safety analysis and data-driven decision making.
 
 
 This project is ideal for:
