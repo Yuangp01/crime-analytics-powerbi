@@ -15,7 +15,7 @@ The project includes data extraction, transformation with Power Query, data mode
 
 - Interactive Geographic Analysis: Explore crime activity across Los Angeles using an interactive LAPD division map with dynamic cross-filtering.
 
-- Crime Trend Analysis: Analyze crime trends from **2020–2025** to identify long-term patterns and emerging hotspots.
+- Crime Trend Analysis: Analyze crime trends from **2020–2024** to identify long-term patterns and emerging hotspots.
 
 - KPI Dashboard: Monitor key metrics including total crimes, crime categories, cleared arrests, open investigations, and pending cases.
 
