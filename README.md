@@ -1,4 +1,4 @@
-# 🚔 Los Angeles Crime Analytics Dashboard
+#  Los Angeles Crime Analytics Dashboard
 ### End-to-End Data Analytics Project
 
 ## Overview
