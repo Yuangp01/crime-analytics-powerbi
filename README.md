@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="images/cover.png" width="100%">
+# Los Angeles Crime Analytics
+
+<p align="left">
+    <!-- Technology badges -->
 </p>
 
 ## Technologies Used
