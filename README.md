@@ -47,6 +47,10 @@ This project showcases an industry-standard end-to-end data analytics workflow u
 
 - Business Intelligence: Transform raw crime data into actionable insights that support data-driven decision-making.
 
+## Project Workflow
+
+![Project Workflow](images/workflow.png)
+
 ## Project Structure
 
 The project repository is organized as follows:
