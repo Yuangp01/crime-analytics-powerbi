@@ -1,5 +1,9 @@
 # Los Angeles Crime Analytics Project
 
+<p align="center">
+  <img src="images/cover.png" alt="Los Angeles Crime Analytics Banner" width="100%">
+</p>
+
 <p align="left">
     <!-- Technology badges -->
 </p>
