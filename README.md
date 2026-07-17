@@ -1,4 +1,4 @@
-# Los Angeles Crime Analytics
+# Los Angeles Crime Analytics Project
 
 <p align="left">
     <!-- Technology badges -->
