@@ -4,6 +4,9 @@
     <!-- Technology badges -->
 </p>
 
+## Overview
+This project showcases an industry-standard end-to-end data analytics workflow using real-world crime data from the Los Angeles Open Data Portal. It demonstrates the full lifecycle of a professional data analytics project, from defining the business problem and preparing the data to building an interactive Power BI dashboard and presenting actionable insights. The project includes data extraction, transformation with Power Query, data modeling, DAX measures, interactive dashboard development, and business reporting to support data-driven decision-making.
+
 ## Technologies Used
 <p align="left">
 
@@ -22,9 +25,6 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </p>
-
-## Overview
-This project showcases an industry-standard end-to-end data analytics workflow using real-world crime data from the Los Angeles Open Data Portal. It demonstrates the full lifecycle of a professional data analytics project, from defining the business problem and preparing the data to building an interactive Power BI dashboard and presenting actionable insights. The project includes data extraction, transformation with Power Query, data modeling, DAX measures, interactive dashboard development, and business reporting to support data-driven decision-making.
 
 ## Preview
 
