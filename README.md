@@ -71,15 +71,11 @@ crime-analytics-powerbi
 │       └── Cleaned_Crime_Data.csv
 │
 ├── images
-│   ├── cover.png
 │   ├── dashboard.png
 │   ├── incidents.png
 │   ├── crimes.png
 │   ├── explanation.png
 │   └── workflow.png
-│
-├── report
-│   └── LA_Crime_Analytics_Report.pdf
 │
 ├── presentation
 │   └── LA_Crime_Analytics_Presentation.pdf
