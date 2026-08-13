@@ -17,6 +17,11 @@ Law enforcement agencies generate massive volumes of incident data, yet often la
 
 **This project demonstrates a production-grade analytics solution** that bridges raw LAPD data and actionable law enforcement intelligence.
 
+---
+## 🖼 Dashboard preview 
+
+---
+
 ### Key Stakeholders & Questions
 
 | Stakeholder | Operational Question | Critical Metric |
