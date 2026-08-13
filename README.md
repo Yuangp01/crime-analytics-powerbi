@@ -96,19 +96,3 @@ flowchart TD
 
 > **🔥 Business Impact: 360x faster analysis.** Precinct commanders can now iterate on deployment strategies in real-time rather than waiting days for administrative reports.
 
----
-
-## 🧠 Key Engineering & Design Decisions
-
-### 1. Star Schema vs. Flat File
-* **The Choice:** Modeled the 800K+ records into a strict Star Schema (1 Fact, 4 Dimensions) rather than relying on a single flat CSV table.
-* **The Why:** Dimension tables (Location, Time, Crime) drastically compress data redundancy. This keeps the Fact table lightweight, optimizes DAX query performance at scale, and establishes natural drill-down paths. It also makes the model easily extensible for future data (e.g., integrating perpetrator demographics later).
-
-### 2. Pre-Aggregated Summary Tables
-* **The Choice:** Built aggregated summary tables for time (Year/Month) and geography (Division totals) alongside the granular incident data.
-* **The Why:** Querying 800,000+ granular incident rows across multiple active visual filters causes DAX rendering lag. By pre-calculating high-level rollups, dashboard load times drop from minutes to milliseconds, ensuring a seamless experience for end-users.
-
-### 3. Power Query (M) over SQL Server
-* **The Choice:** Handled all ETL directly via Power Query instead of spinning up a dedicated SQL database.
-* **The Why:** Zero database administration overhead. It keeps the entire analytical pipeline self-contained within the Power BI/Excel ecosystem, ensures the raw source files remain accessible to non-technical stakeholders, and provides a fully version-controlled, auditable transformation history.
-
