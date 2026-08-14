@@ -99,5 +99,5 @@ flowchart TD
 | • Create static pivot table report (`1 hour`) | • Drill-down to specific areas/offenses (`30 seconds`) |
 | **TOTAL: 6 Hours (Static Output)** | **TOTAL: < 1 Minute (Interactive & Ad-Hoc)** |
 
-> **🔥 Business Impact: 360x faster analysis.** Precinct commanders can now iterate on deployment strategies in real-time rather than waiting days for administrative reports.
+> ** Business Impact: 360x faster analysis.** Precinct commanders can now iterate on deployment strategies in real-time rather than waiting days for administrative reports.
 
