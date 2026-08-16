@@ -20,7 +20,13 @@ Law enforcement agencies generate massive volumes of incident data, yet often la
 ---
 ## 🖼 Dashboard preview 
 
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <img src="images/crime.png" alt="Crime Analytics Dashboard" width="48%" style="border-radius: 8px;">
+  <img src="images/Case_Investigation.png" alt="Case Investigation Dashboard" width="48%" style="border-radius: 8px;">
+
 ---
+
+</div>
 
 ### Key Stakeholders & Questions
 
